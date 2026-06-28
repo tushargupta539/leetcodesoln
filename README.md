@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tushargupta539/leetcodesoln/tree/master/0287-find-the-duplicate-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tushargupta539/leetcodesoln/tree/master/1248-count-number-of-nice-subarrays) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tushargupta539/leetcodesoln/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/tushargupta539/leetcodesoln/tree/master/1248-count-number-of-nice-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tushargupta539/leetcodesoln/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Sorting
+|  |
+| ------- |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tushargupta539/leetcodesoln/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
