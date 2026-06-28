@@ -5,16 +5,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tushargupta539/leetcodesoln/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tushargupta539/leetcodesoln/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tushargupta539/leetcodesoln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tushargupta539/leetcodesoln/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Two Pointers
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tushargupta539/leetcodesoln/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tushargupta539/leetcodesoln/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tushargupta539/leetcodesoln/tree/master/0287-find-the-duplicate-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tushargupta539/leetcodesoln/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -22,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tushargupta539/leetcodesoln/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tushargupta539/leetcodesoln/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -42,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/tushargupta539/leetcodesoln/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tushargupta539/leetcodesoln/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Tree
 |  |
