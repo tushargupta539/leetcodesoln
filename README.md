@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tushargupta539/leetcodesoln/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tushargupta539/leetcodesoln/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0885-spiral-matrix-iii](https://github.com/tushargupta539/leetcodesoln/tree/master/0885-spiral-matrix-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tushargupta539/leetcodesoln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1395-count-number-of-teams](https://github.com/tushargupta539/leetcodesoln/tree/master/1395-count-number-of-teams) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tushargupta539/leetcodesoln/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/tushargupta539/leetcodesoln/tree/master/1395-count-number-of-teams) |
+## Matrix
+|  |
+| ------- |
+| [0885-spiral-matrix-iii](https://github.com/tushargupta539/leetcodesoln/tree/master/0885-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0885-spiral-matrix-iii](https://github.com/tushargupta539/leetcodesoln/tree/master/0885-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
